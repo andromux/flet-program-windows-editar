@@ -1,5 +1,8 @@
 # ProgramaWindows app
 
+pensada para esta app
+https://github.com/andromux/flet-app-android-apk/tree/main
+
 asi enpaquete mi programa
 ```
 flet pack .\main.py --name app-list-manager --icon .\assets\icon.png
