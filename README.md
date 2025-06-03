@@ -1,5 +1,9 @@
 # ProgramaWindows app
 
+asi enpaquete mi programa
+```
+flet pack .\main.py --name app-list-manager --icon .\assets\icon.png
+```
 ## Run the app
 
 ### uv
